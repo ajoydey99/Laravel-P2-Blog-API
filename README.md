@@ -1,3 +1,11 @@
+
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red)
+![PHP](https://img.shields.io/badge/PHP-8.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Sanctum](https://img.shields.io/badge/Auth-Laravel%20Sanctum-orange)
+
+---
+
 # 🚀 Laravel Blog REST API
 
 A secure and scalable Blog REST API built with **Laravel**. This project provides authentication, authorization, post management, tagging, filtering, pagination, and role-based access control using **Laravel Sanctum**.
@@ -296,9 +304,3 @@ app/
 - Validation
 - Secure Protected Routes
 
----
-
-![Laravel](https://img.shields.io/badge/Laravel-12.x-red)
-![PHP](https://img.shields.io/badge/PHP-8.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Sanctum](https://img.shields.io/badge/Auth-Laravel%20Sanctum-orange)
